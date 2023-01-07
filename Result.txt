@@ -1,0 +1,7 @@
+TimeStampRelative RunNumber TimestampLocal EventSource FileNumber EventMessage
+-1380.0 7 "23-06-2020 13:24" AcquisitionSystem 70.0 Inflow_1.5cP_WC0_run1_007_F0070_S20200623_142105.686+0500_0000.sgy
+-60.0 7 "23-06-2020 13:46" User 0.0 "Fluid 1 rate 9 l/min"
+-3720.0 8 "23-06-2020 13:47" AcquisitionSystem 71.0 Inflow_1.5cP_WC0_run1_008_F0071_S20200623_142050.686+0500_0000.sgy
+-5100.0 9 "23-06-2020 15:12" AcquisitionSystem 160.0 Inflow_1.5cP_WC0_run1_009_F0160_S20200623_160858.686+0500_0000.sgy
+-5100.0 9 "23-06-2020 15:12" User 0.0 "Fluid 1 rate WC=25% 21 l/min"
+-5100.0 9 "23-06-2020 15:12" AcquisitionSystem 161.0 Inflow_1.5cP_WC0_run1_009_F0161_S20200623_160913.686+0500_0000.sgy
